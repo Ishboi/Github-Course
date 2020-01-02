@@ -148,7 +148,11 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
+<<<<<<< master
   - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+=======
+  - {fileID: 2100000, guid: 161b5cfaa6fb9f0499da8dc9e7f26b03, type: 2}
+>>>>>>> Made ground green
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
